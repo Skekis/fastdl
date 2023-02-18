@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\chen\ring"
+	"$envmap" "env_cubemap"
+}

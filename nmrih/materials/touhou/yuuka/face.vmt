@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "touhou/yuuka/face"
+
+	"$model" 1
+	"$nocull" 1
+
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "0"
+	"$phongexponent" "5"
+	"$phongboost"	"1"
+    "$lightwarptexture" "touhou\yuuka/toon_a"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}

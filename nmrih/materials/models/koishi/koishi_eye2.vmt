@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/koishi/koishi_eye"
+
+	"$nocull" "1"
+	"$nodecal" "1"
+
+	"$lightwarptexture" "models\koishi\face_shader"
+		
+	"$phong" "1"
+	"$phongboost"	"2"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\koishi\phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}
